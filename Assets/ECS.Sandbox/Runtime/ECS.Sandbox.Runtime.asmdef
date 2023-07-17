@@ -1,0 +1,27 @@
+{
+    "name": "ECS.Sandbox.Runtime",
+    "rootNamespace": "ECS.Sandbox.Runtime",
+    "references": [
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e0cd26848372d4e5c891c569017e11f1",
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:734d92eba21c94caba915361bd5ac177",
+        "GUID:586c26a6ab8923842bcb0848f39b6cf7",
+        "GUID:3d9288551f5f1b14b9fcbd11fd97a391",
+        "GUID:8819f35a0fc84499b990e90a4ca1911f",
+        "GUID:63afb046c8423dd448ae7aba042ea63d",
+        "GUID:6bfefdf09ee6431fae75a6f5e06a0e89",
+        "GUID:e00140a815de944528348782854abe39",
+        "GUID:a5baed0c9693541a5bd947d336ec7659",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
